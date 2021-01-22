@@ -1,6 +1,1 @@
-# ThaiseMariaCoutinhodeLima_JessicaFracaSilva_dca1202
-
-Nome dos componetes:
-
-Thaise Maria Coutinho de Lima
-]éssica França Silva
+Lista 1 referente a primeira unidade da disciplina de Programação Avançada do curso de Engenharia de Computação.
